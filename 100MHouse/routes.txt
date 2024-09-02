@@ -1,0 +1,3 @@
+﻿route_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+1-100M,1,100 Mile House,3,000000,FFFFFF
+2-100M,2,108 Ranch,3,000000,FFFFFF

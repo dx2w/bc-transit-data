@@ -1,0 +1,39 @@
+﻿route_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+1-CFV,1,Highstreet/UFV,3,8CC63F,FFFFFF
+2-CFV,2,Highstreet/McMillan,3,8177B7,FFFFFF
+3-CFV,3,Clearbrook/Huntingdon,3,F37421,FFFFFF
+4-CFV,4,Saddle/Montrose,3,AC5C3B,FFFFFF
+5-CFV,5,Clearbrook/Bourquin via Hospital,3,A54499,FFFFFF
+6-CFV,6,Gladwin,3,00AEEF,FFFFFF
+7-CFV,7,Sumas Mountain,3,00AA4F,FFFFFF
+9-CFV,9,McKee/Montrose,3,5D87A1,FFFFFF
+12-CFV,12,UFV Connector,3,004B8D,FFFFFF
+15-CFV,15,Auguston/Montrose,3,49176D,FFFFFF
+16-CFV,16,McMillan/Montrose,3,B3AA7E,FFFFFF
+17-CFV,17,Industrial,3,75AE99,FFFFFF
+21-CFV,21,Fraser Hwy,3,7C3F25,FFFFFF
+22-CFV,22,East Townline School Special,3,FCAF17,FFFFFF
+24-CFV,24,Centre Loop School Special,3,ED1D8F,FFFFFF
+26-CFV,26,Sandy Hill/Bourquin School Special,3,E270AB,FFFFFF
+31-CFV,31,Valley Connector,3,BF83B9,FFFFFF
+32-CFV,32,West Heights,3,ED1D8F,FFFFFF
+33-CFV,33,Cedar Valley,3,00AA4F,FFFFFF
+34-CFV,34,East Side,3,FCAF17,FFFFFF
+35-CFV,35,Hatzic,3,F37421,FFFFFF
+39-CFV,39,Shopper Shuttle,3,004B8D,FFFFFF
+51-CFV,51,Vedder,3,E31937,FFFFFF
+52-CFV,52,Evans,3,8CC63F,FFFFFF
+53-CFV,53,Fairfield,3,5D87A1,FFFFFF
+54-CFV,54,Promontory,3,F37421,FFFFFF
+55-CFV,55,Yarrow - Greendale,3,00AEEF,FFFFFF
+57-CFV,57,Broadway,3,91278F,FFFFFF
+58-CFV,58,Tyson,3,49176D,FFFFFF
+59-CFV,59,Industrial,3,4F6F19,FFFFFF
+66-CFV,66,Fraser Valley Express,3,F37421,FFFFFF
+71-CFV,71,Agassiz-Harrison,3,FCAF17,FFFFFF
+72-CFV,72,Hope,3,00AA4F,FFFFFF
+56-CFV,56,Cultus Lake,3,FFC20E,FFFFFF
+7A-CFV,7A,Sumas Mountain,3,00AA4F,FFFFFF
+21A-CFV,21A,Fraser Hwy,3,7C3F25,FFFFFF
+31A-CFV,31A,Valley Connector,3,BF83B9,FFFFFF
+31X-CFV,31X,Valley Connector,3,BF83B9,FFFFFF
