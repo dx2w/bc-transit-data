@@ -1,0 +1,2 @@
+﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_version,feed_start_date,feed_end_date
+Consat Telematics AB,https://consat.se,en,202409020/20240901 21:00:00/20240902 04:00:00,20240831,20250830
